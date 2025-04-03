@@ -1,0 +1,74 @@
+{
+    "interactions": {
+        "1": {
+            "timestamp": "2025-03-31T16:22:20.469491",
+            "query": "hi",
+            "response": " Hello! The context provided does not contain sufficient details to answer a question directly. Howe",
+            "type": "qa",
+            "sentiment": null
+        },
+        "2": {
+            "timestamp": "2025-03-31T16:22:38.208544",
+            "query": "hi",
+            "response": " Hello! The provided context consists of two documents: one is a math textbook (ai/knowledge_base/te",
+            "type": "qa",
+            "sentiment": null
+        },
+        "3": {
+            "timestamp": "2025-03-31T16:22:56.564672",
+            "query": "who are yoy",
+            "response": " I am a text-based AI model designed to assist with the retrieval and generation of information. My ",
+            "type": "qa",
+            "sentiment": null
+        },
+        "4": {
+            "timestamp": "2025-03-31T16:25:45.440921",
+            "query": "differentiate f(x) = sin(2x)",
+            "response": " To differentiate the function f(x) = sin(2x), we apply the chain rule and the derivative of the sin",
+            "type": "qa",
+            "sentiment": null
+        },
+        "5": {
+            "timestamp": "2025-04-01T10:47:52.283007",
+            "query": "what is dbms",
+            "response": " Based on the provided context, there is no specific document that directly defines the term \"dbms\".",
+            "type": "qa",
+            "sentiment": null
+        },
+        "6": {
+            "timestamp": "2025-04-01T12:51:57.256857",
+            "query": "what is dbms",
+            "response": " A Database Management System (DBMS) is a software application used to create, define, maintain, and",
+            "type": "qa",
+            "sentiment": null
+        },
+        "7": {
+            "timestamp": "2025-04-01T13:05:06.619055",
+            "query": "what is dbms",
+            "response": " A DBMS (Database Management System) is a software application used for creating, storing, and manag",
+            "type": "qa",
+            "sentiment": null
+        },
+        "8": {
+            "timestamp": "2025-04-01T13:09:10.408574",
+            "query": "what is dbms",
+            "response": " A Database Management System (DBMS) is a software application used for creating, maintaining, using",
+            "type": "qa",
+            "sentiment": null
+        },
+        "9": {
+            "timestamp": "2025-04-01T13:13:46.185489",
+            "query": "what is dbms",
+            "response": " Database Management System (DBMS) is a software application used for creating, maintaining and mana",
+            "type": "qa",
+            "sentiment": null
+        },
+        "10": {
+            "timestamp": "2025-04-01T13:48:27.980090",
+            "query": "find lim_(x->3) (x^2 - 9)/(x - 3)",
+            "response": " To find the limit, we can't directly divide because we are trying to find the value as x approaches",
+            "type": "qa",
+            "sentiment": null
+        }
+    }
+}
